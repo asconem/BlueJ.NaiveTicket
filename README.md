@@ -81,7 +81,9 @@ in the outer wrapper of a class?
 	* Hint: There is only one constructor in the class.
 
 -Fields: price, balance, total
+
 -Constructors: TicketMachine
+
 -Methods: getPrice(), getTicketNumer(), getBalance(), calculateTotal(), incrementTicketNumber(), insertMoney(int amount), printTicket()
 
 ### Exercise 2.10
