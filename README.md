@@ -30,6 +30,7 @@ a ticket. The machine also keeps a running total of the amount of money inserted
 	* What happens if you insert too much money into the machine – do you receive any refund?
 
 -No
+
 	* What happens if you do not insert enough and then try to print a ticket?
 
 The machine will still print a ticket.
